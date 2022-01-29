@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#map {
+  background-color: grey;
+  height: 50vh;
+  width: 50vh;
+  margin-top: 1em;
+  display: flex;
+  flex-wrap: wrap;
+}

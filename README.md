@@ -1,2 +1,2 @@
-# randommmap
+# randommap
 Created with CodeSandbox
